@@ -1,0 +1,6 @@
+data/
+discovery/external/raw/
+discovery/out/*.parquet
+writeup/pdf/*.html
+__pycache__/
+.venv/
